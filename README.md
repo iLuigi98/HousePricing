@@ -1,4 +1,4 @@
-Housing Prices Analysis
+## Housing Prices Analysis
 
 •	Project performed using NumPy, Pandas, and scikit-learn library to create a Prediction Model
 
